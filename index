@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - Cálculo de Carga Eléctrica</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; color: #222; }
+        h1, h2 { color: #0F1417; }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidad</h1>
+    <p><strong>Última actualización:</strong> Agosto de 2026</p>
+    
+    <p>La aplicación <strong>Cálculo de Carga Eléctrica</strong> (identificador <code>com.florit.clculodecargaelctrica</code>) está diseñada como una herramienta técnica de cálculo y consulta.</p>
+
+    <h2>1. Recopilación y Uso de Datos</h2>
+    <p>Nuestra aplicación <strong>no recopila, no almacena ni transmite ningún tipo de información personal</strong>, sensible o de identificación de los usuarios.</p>
+
+    <h2>2. Almacenamiento Local</h2>
+    <p>Todos los datos o parámetros de carga ingresados dentro de la herramienta se procesan de forma puramente local en el dispositivo del usuario mediante el almacenamiento del navegador (<code>localStorage</code>) y no se envían a ningún servidor externo.</p>
+
+    <h2>3. Permisos solicitados</h2>
+    <p>La aplicación requiere únicamente acceso a la red de Internet con el fin exclusivo de cargar la interfaz técnica alojada en la web.</p>
+
+    <h2>4. Cambios en la Política</h2>
+    <p>Nos reservamos el derecho de actualizar esta política de privacidad cuando sea necesario. Cualquier cambio estará disponible inmediatamente en este enlace.</p>
+
+    <h2>5. Contacto</h2>
+    <p>Si tenés alguna consulta referente a esta política, podés contactarnos a través del canal oficial de soporte en la tienda de aplicaciones.</p>
+</body>
+</html>
